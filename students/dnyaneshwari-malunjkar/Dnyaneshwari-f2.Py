@@ -47,10 +47,4 @@ else:
 
 #problem
 
-num=10
-unum=0
-while unum! = num:
-uinp=int(input(" gess number 1 to 10") 
-unum=uinput
-print("incorrect guess") 
-print ("correct guess") 
+
